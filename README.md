@@ -7,9 +7,6 @@ Interested in SAP/ABAP, backend development and data-driven systems.
 
 <h3>🛠 Tech Stack</h3>
 
-<p align="left">
-Python · Java · C# · JavaScript · ASP.NET Core · React · SAP ABAP · MSSQL
-</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
