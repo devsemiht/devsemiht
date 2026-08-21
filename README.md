@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋 I'm Semih</h1>
 
 <p align="left">
-Computer Engineering graduate from Bursa Technical University.<br>
-Focused on .NET backend development, API test automation, SAP/ABAP and data-driven systems.
+Computer Engineering graduated from Bursa Technical University.<br>
+Focused on Data Analytics, .NET backend development, API test automation, SAP/ABAP and IoT systems.
 </p>
 
 <h3>🛠 Tech Stack</h3>
